@@ -1,2 +1,2 @@
-# Besiktas-JK
-Dit is een schoolproject dat gaat over de oudste voetbalclub van Turkije: Besiktas JK
+TOEFALI FC 
+Dit gaat over mijn eigen club
